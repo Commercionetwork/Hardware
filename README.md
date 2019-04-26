@@ -1,5 +1,5 @@
-# How to setup a node (working in progress)
-Guide on how do you need to install a Commercio Network Validator Node.       
+# How to setup a Validator Node (work in progress)
+Guide on how to install a Commercio.network Validator Node.       
 
 ## Install OS
 
@@ -21,14 +21,6 @@ It is prone to intrusion and out of service in any moment for breaking hardware 
 * 1 internet Connection with bidirectional capabilities and minimun 30/30Mbit
 * 1 Ledger nano S
 * 50,000 Commercio Tokens
-
-
-Estimed costs of hardware:
-
-Estimed costs of services:
-
-
-
 
 
 ### Mid level  (Minimum Necessary)
@@ -99,7 +91,3 @@ Configurations of nodes:
 * 2 Ledger nano S (one per server)
 * 50,000 Commercio Tokens
 
-Estimed costs of hardware:
-
-
-Estimed costs of services:
