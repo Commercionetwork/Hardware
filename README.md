@@ -42,9 +42,7 @@ The redoundant power supply and ethernet nic guarantee a basic
 * 1 Ups with 1000VA capacity for minimum resistance to power surges and out of power service 
 * 50,000 Commercio Tokens
   
-Estimed costs of hardware:
 
-Estimed costs of services:
 
 Configurations of nodes:    
 **Validator node**
