@@ -1,2 +1,2 @@
 # How to setup a Commercio.network validator node 
-See the [official Commercio.network documentation](https://github.com/Commercionetwork/Commercionetwork/blob/master/docs/validator-hardware.md)
+See the [official Commercio.network documentation](https://docs.commercio.network)
